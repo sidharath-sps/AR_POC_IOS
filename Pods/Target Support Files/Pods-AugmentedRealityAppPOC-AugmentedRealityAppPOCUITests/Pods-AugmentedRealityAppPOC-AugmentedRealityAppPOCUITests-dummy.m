@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_AugmentedRealityAppPOC_AugmentedRealityAppPOCUITests : NSObject
+@end
+@implementation PodsDummy_Pods_AugmentedRealityAppPOC_AugmentedRealityAppPOCUITests
+@end
